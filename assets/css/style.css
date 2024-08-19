@@ -24,3 +24,12 @@ body{
     cursor: pointer;
 }
 
+@media (max-width: 767.98px) {
+    .fullscreen-image {
+        height: auto;
+    }
+
+    .centered-button {
+        top: 70%;
+    }
+
