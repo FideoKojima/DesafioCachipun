@@ -1,8 +1,6 @@
 # Desafío Evaluado - Cachipún contra la máquina
 [Vista Previa del Proyecto](https://desafio-cachipun-six.vercel.app/)
 
-La página muestra un título y una breve descripción del juego, así como un botón para iniciar el juego. El resultado del juego se mostrará después de cada ronda.
-
 ## Descripción
 
 Cachipún es un juego clásico en el que dos jugadores (en este caso, tú y el computador) eligen de manera secreta una de las tres opciones: Piedra, Papel o Tijera. El ganador se determina según las siguientes reglas:
