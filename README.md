@@ -1,4 +1,5 @@
 # Desafío Evaluado - Cachipún contra la máquina
+[Vista Previa del Proyecto](https://desafio-cachipun-six.vercel.app/)
 
 La página muestra un título y una breve descripción del juego, así como un botón para iniciar el juego. El resultado del juego se mostrará después de cada ronda.
 
