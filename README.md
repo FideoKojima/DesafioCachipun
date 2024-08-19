@@ -19,7 +19,7 @@ Este proyecto permite jugar Cachipún contra la máquina a través de una interf
 - HTML
 - CSS
 - JavaScript
-- Bootstrap 5.3.2
+- Bootstrap 5.3.3
 
 ## Estructura del Proyecto
 
