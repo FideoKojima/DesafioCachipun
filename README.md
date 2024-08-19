@@ -37,5 +37,3 @@ El proyecto está compuesto por los siguientes archivos:
 3. **Elegir una Opción**: La máquina seleccionará una opción aleatoria y se comparará con la opción que elegiste.
 
 4. **Resultado**: La página mostrará quién ganó el juego o si hubo un empate.
-
-# DesafioCachipun
